@@ -10,7 +10,7 @@
 
 ### 🚀 Hakkımda
 
-- 💡 Yapay zeka, otomasyon ve veri tabanı sistemleri üzerine çalışıyorum  
+- 🧠 Yapay zeka, otomasyon ve veri tabanı sistemleri üzerine çalışıyorum  
 - 💻 Python, C#, SQL, Java dillerine ve popüler AI kütüphanelerine hakimim  
 - 🎯 Amacım sektörde fark yaratan, kalıcı projeler geliştirmek
 
@@ -35,6 +35,7 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-000000?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
